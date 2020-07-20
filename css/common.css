@@ -1,0 +1,4 @@
+/* setting */
+*{ margin:0; padding:0; box-sizing: border-box; font-family: sans-serif;}
+textarea{ border:0; resize: none; }
+#code{ width: 600px; min-height: 1000px; background: #f6f8fa; color:#333; padding:15px; }
